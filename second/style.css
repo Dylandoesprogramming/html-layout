@@ -1,0 +1,39 @@
+html, body{
+  height: 100%;
+}
+.blue-stripe{
+  float:left;
+  height:100%;
+  width:33.333%;
+  background-color: #3D8AE9;
+}
+
+.teal-stripe{
+  float:left;
+  height:100%;
+  width:33.333%;
+  background-color: #00EAC3;
+}
+
+.green-stripe{
+  float:left;
+  height:75%;
+  width:33.333%;
+  background-color: #A8F07B;
+}
+
+.image{
+  float:right;
+  height:25%;
+  width:33.333%;
+  background-color: #E10000;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+}
+
+span{
+  font-family: Helvetica;
+  font-size: 2em;
+  color: #fff;
+}

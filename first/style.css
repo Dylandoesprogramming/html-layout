@@ -1,0 +1,22 @@
+header{
+  background-color:#424242;
+  height:125px;
+}
+main{
+  background-color:#fff;
+  height: 800px;
+  margin:auto;
+  width: 50%;
+}
+
+body{
+  background-color:#cacaca;
+  height: 100%;
+}
+
+footer{
+  background-color:#424242;
+  margin: auto;
+  width: 50%;
+  height:75px;
+}
